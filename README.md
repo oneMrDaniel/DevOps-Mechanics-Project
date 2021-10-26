@@ -18,6 +18,7 @@ The website/application/scraper would be accessible on HTTP and HTTPS servers ov
 - Finally, security must be taken seriously as I’d have some security checks. 
 - If there are other things you think would make the project more interesting then add it up; testing and others.  
 - I’d like to track your changes so everyone should setup github projects. 
+- SECURITY: For security purposes, ensure that your VPC is only accessible within the VPC (you can use VPN trunking and many other ways). Also, do some nice stuff with security groups (inbound/outbound rules), gateways, static IPs and proper IAM permissions. 
 
 ## Note
 
